@@ -1,0 +1,52 @@
+Here are 50 interview questions related to the AWS CDK (Cloud Development Kit) using TypeScript:
+
+1. What is AWS CDK, and why is it used?
+2. Explain the key differences between AWS CDK and CloudFormation.
+3. What programming languages are supported by AWS CDK?
+4. How do you install and set up AWS CDK for TypeScript?
+5. What is a CDK application in AWS CDK?
+6. Can you describe the main components of an AWS CDK application?
+7. What is a "stack" in AWS CDK, and how is it used?
+8. How can you define and manage AWS resources using the AWS CDK?
+9. What is a "construct" in AWS CDK, and how does it relate to AWS resources?
+10. What is the purpose of the AWS Construct Library?
+11. How do you create a new CDK application using TypeScript?
+12. Explain the process of creating a new CDK stack using TypeScript.
+13. How can you define a VPC (Virtual Private Cloud) in AWS CDK using TypeScript?
+14. What is the role of the `@aws-cdk/assertions` library in AWS CDK?
+15. How can you deploy an AWS CDK application after defining the infrastructure?
+16. What are the steps involved in deploying a CDK application to an AWS account?
+17. How do you handle dependencies between AWS CDK stacks?
+18. Explain the purpose of the `cdk.json` file in an AWS CDK project.
+19. How can you configure AWS CDK applications for multiple environments (e.g., dev, prod)?
+20. What is the purpose of the `cdk.context.json` file in an AWS CDK project?
+21. How can you manage secrets and sensitive information in an AWS CDK application?
+22. What are the benefits of using TypeScript in AWS CDK development?
+23. How do you import existing AWS resources into an AWS CDK application?
+24. What is the AWS Cloud Assembly in the context of AWS CDK?
+25. How do you use "tags" in AWS CDK to label and categorize resources?
+26. What is the role of the `cdk init` command in an AWS CDK project?
+27. How can you add custom resources or AWS Lambda functions in AWS CDK?
+28. What is the AWS CDK CLI, and how is it useful in development and deployment?
+29. Explain the concept of "stack isolation" in AWS CDK.
+30. How do you handle cross-region deployments with AWS CDK?
+31. What is the purpose of the `@aws-cdk/core` library in AWS CDK?
+32. Can you use AWS CDK to create IAM roles and policies?
+33. How do you perform unit testing of AWS CDK applications written in TypeScript?
+34. What is "cross-stack references" in AWS CDK, and how is it achieved?
+35. How can you create custom AWS CloudFormation resources using AWS CDK?
+36. What is a "token" in AWS CDK, and when is it used?
+37. How do you update an existing AWS CDK stack without recreating resources?
+38. Explain the concept of "stack termination protection" in AWS CDK.
+39. How do you manage AWS CDK deployments across multiple AWS accounts?
+40. What is the purpose of the `@aws-cdk/aws-iam` library in AWS CDK?
+41. How do you define and use Amazon S3 buckets in AWS CDK applications?
+42. Can you create custom AWS CDK constructs, and if so, how?
+43. What is the purpose of the `@aws-cdk/aws-lambda` library in AWS CDK?
+44. How can you define and manage Amazon RDS (Relational Database Service) in AWS CDK?
+45. What is the AWS CDK Pipelines and how is it used in CI/CD?
+46. How do you configure AWS CDK applications for different deployment environments (e.g., dev, test, prod)?
+47. What is the role of the `cdk bootstrap` command in an AWS CDK project?
+48. How do you handle resource deletion and cleanup in AWS CDK applications?
+49. Can you provide an example of creating a simple AWS CDK application using TypeScript?
+50. What are some best practices for developing and maintaining AWS CDK applications in TypeScript?
